@@ -1,0 +1,1 @@
+In this project, three different types of recommendation system algorithms were developed and applied on the MovieLens 100K dataset, including hybrid recommendation system using content-based filtering ($\textbf{CBF}$) & collaborative filtering ($\textbf{CF}$) recommenders, $\textbf{XGBoost}$ and graph neural network ($\textbf{GNN}$).
